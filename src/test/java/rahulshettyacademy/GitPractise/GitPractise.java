@@ -9,6 +9,7 @@ public class GitPractise {
 	public void hello(){
 		
 		System.out.println("Hello Word");
+		System.out.println("New Added Code");
 		
 		
 	}
