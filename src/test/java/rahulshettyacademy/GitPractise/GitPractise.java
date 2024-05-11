@@ -29,4 +29,14 @@ public class GitPractise {
 		
 	}
 
+public void hello2(){
+	
+	System.out.println("Hello Word by architect2");
+	System.out.println("New Added Code by architect2");
+	System.out.println("Hello Word1 by architect2");
+	System.out.println("New Added Code2 by architect2");
+	
+	
+}
+
 }
