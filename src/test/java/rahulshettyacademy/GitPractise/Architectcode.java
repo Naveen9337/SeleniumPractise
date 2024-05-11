@@ -1,5 +1,6 @@
 package rahulshettyacademy.GitPractise;
 
+<<<<<<< HEAD
 import org.testng.annotations.Test;
 
 public class Architectcode {
@@ -10,5 +11,8 @@ public class Architectcode {
 	{
 		System.out.println("This is code added by original Architect");
 	}
+=======
+public class Architectcode {
+>>>>>>> develop
 
 }
