@@ -15,18 +15,5 @@ public class GitPractise {
 		
 		
 	}
-	
-@Test
-	
-	public void hello1(){
-		
-		System.out.println("Hello Word by architect");
-		System.out.println("New Added Code by architect");
-		System.out.println("Hello Word1 by architect");
-		System.out.println("New Added Code2 by architect");
-		
-		
-	}
-
 
 }
